@@ -1,0 +1,5 @@
+Subject_ID,Genotype_CYP2D6,Genotype_CYP3A5,Metabolizer_Status,Drug,Dosage_mg,Plasma_Level_ng_per_ml,Adverse_Reaction,Treatment_Outcome
+001,*1/*1,*3/*3,Extensive,Codeine,60,48,No,Effective
+002,*4/*4,*1/*3,Poor,Codeine,60,10,No,No Effect
+003,*1/*2xN,*1/*1,Ultrarapid,Codeine,60,110,Yes,Side Effects
+004,*10/*10,*1/*6,Intermediate,Metoprolol,50,75,No,Normal
